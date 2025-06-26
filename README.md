@@ -1,2 +1,2 @@
 # Soccer_Shazam
-Find information on a goal, whether it be match or player info via video upload of the goal
+Upload a short soccer goal video and get the exact match it came from along with the goal scorer — using computer vision, OCR, and vector similarity search.
